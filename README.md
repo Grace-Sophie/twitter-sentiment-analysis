@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project, completed as part of a college assignment by **Grace Wangari**, aimed to solve the challenge of sentiment analysis, specifically focusing on extracting the portions of tweets that reflect the sentiment expressed. This task, known as sentiment extraction, involves identifying and extracting the words or phrases from a tweet that contribute most significantly to the tweet's overall sentiment.
+This project, completed as part of a university assignment, aimed to solve the challenge of sentiment analysis, specifically focusing on extracting the portions of tweets that reflect the sentiment expressed. This task, known as sentiment extraction, involves identifying and extracting the words or phrases from a tweet that contribute most significantly to the tweet's overall sentiment.
 
 To accomplish this, the project employed a variety of Python libraries and techniques, including natural language processing (NLP) tools like NLTK and spaCy, data manipulation and analysis with pandas and numpy, as well as visualization with matplotlib, seaborn, and Plotly. The project's workflow included data cleaning, exploratory data analysis (EDA), feature engineering, and training a model for sentiment extraction.
 
@@ -43,4 +43,4 @@ The primary problem tackled was the identification of key phrases within tweets 
 
 ### Conclusion
 
-This academic project, developed by **Grace Wangari**, successfully created a system capable of extracting sentiment-bearing phrases from tweets, providing valuable insights into public opinion on various topics. Through meticulous data analysis, feature engineering, and the application of NLP techniques, the project highlights the potential of machine learning and NLP in enhancing sentiment analysis tasks.
+This academic project, successfully created a system capable of extracting sentiment-bearing phrases from tweets, providing valuable insights into public opinion on various topics. Through meticulous data analysis, feature engineering, and the application of NLP techniques, the project highlights the potential of machine learning and NLP in enhancing sentiment analysis tasks.
